@@ -1,0 +1,2 @@
+# Dependencies for packaging pymap engine
+pyinstaller>=6.0.0

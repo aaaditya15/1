@@ -1,0 +1,12 @@
+[package]
+name = "pymap"
+version = "0.1.0"
+edition = "2021"
+authors = []
+description = "Fast CLI tool powered by a Rust wrapper and Python engine"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+repository = "https://github.com/aaaditya15/1"
+
+[dependencies]
+# We use standard library std::process::Command for zero-overhead process forwarding.

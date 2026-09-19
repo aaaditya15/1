@@ -1,0 +1,26 @@
+# Rust build artifacts
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# PyInstaller / Packaging output
+build/
+dist/
+*.spec
+
+# IDE / Editor configuration
+.idea/
+.vscode/
+*.swp
+*~
